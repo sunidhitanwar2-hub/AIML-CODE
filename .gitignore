@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Assignment 9 large files
+assignment9_cctv_object_detection/*.mp4
+assignment9_cctv_object_detection/*.pt
+
+# Generated output
+output_detection.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
